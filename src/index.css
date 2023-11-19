@@ -1,0 +1,20 @@
+
+#root{
+  background-color: #22092C;
+  height: 100vh;
+}
+
+
+.quote{
+  font-family: 'Vina Sans', sans-serif;
+}
+
+.bg-main{
+  background-color: #F05941;
+}
+
+
+button{
+  border: none;
+  outline: none;
+}
