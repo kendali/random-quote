@@ -14,6 +14,7 @@ const App = () => {
   }
   return (
     <div className="p-5">
+      <h2 className="display-2 text-center fw-bold mb-3 cl-main">Random Quote </h2>
       <div className="quote bg-light m-auto p-5 fs-2 rounded">
         <q>
         {
